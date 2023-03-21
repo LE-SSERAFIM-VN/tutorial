@@ -1,8 +1,8 @@
 # tutorial
-
+Hướng dẫn cách commit github like a pro
 ### Dùng git clone từ github về
 ![Image](clone.png "")
-### ### lệnh ```git clone``` + link vừa copy
+### lệnh ```git clone``` + link vừa copy
 ![Image](git.png "")
 ### Tạo branch mới, đặt tên dễ hiểu
 ![Image](branch.png "")
